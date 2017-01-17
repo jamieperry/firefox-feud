@@ -1,4 +1,4 @@
-### Firefox Feud
+### Pocket Feud
 
 This app has been populated with a few sample questions located in `sample-data.json`.
 
@@ -24,8 +24,4 @@ This app has been populated with a few sample questions located in `sample-data.
 6. Click play
 
 
-**If you're from MOZ and have the moz-data.json file**
-
-Start the program with:
-
-`MOZ=true node server.js`
+**This code was generously created and shared by Mozilla. Nate, the Pocket CEO and founder, loved the game so much he insisted we have our own version! Huge shoutout to the original devs!*

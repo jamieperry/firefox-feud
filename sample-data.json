@@ -1,6 +1,6 @@
 {
   "Name a board that kids ride for fun": {
-    "counter": 1,
+    "counter": 4,
     "answers": [
       [
         "Skateboard",
@@ -66,7 +66,7 @@
     ]
   },
   "Name something people run out of": {
-    "counter": 2,
+    "counter": 6,
     "answers": [
       [
         "Milk",
@@ -99,7 +99,7 @@
     ]
   },
   "Tell us something a mother says to her child over and over again": {
-    "counter": 3,
+    "counter": 5,
     "answers": [
       [
         "No",
@@ -169,7 +169,7 @@
     ]
   },
   "Name something that easy to do forwards, but hard backwards": {
-    "counter": 3,
+    "counter": 4,
     "answers": [
       [
         "Walk",
