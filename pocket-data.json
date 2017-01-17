@@ -1,5 +1,5 @@
 {
-  "Name a board that kids ride for fun": {
+  "What are the most commonly used tags?": {
     "counter": 2,
     "answers": [
       [
@@ -20,8 +20,8 @@
       ]
     ]
   },
-  "Name a board that kids ride for fun": {
-    "counter": 2,
+  "What are the most popular languages of Pocket users?": {
+    "counter": 3,
     "answers": [
       [
         "Skateboard",
@@ -41,8 +41,8 @@
       ]
     ]
   },
-  "Name a board that kids ride for fun": {
-    "counter": 2,
+  "What are the most popular domains/publishers users save from?": {
+    "counter": 4,
     "answers": [
       [
         "Skateboard",
@@ -62,8 +62,8 @@
       ]
     ]
   },
-  "Name a board that kids ride for fun": {
-    "counter": 2,
+  "What are the most popular devices (e.g. iPhone 6s Plus, Google Pixel XL)?": {
+    "counter": 5,
     "answers": [
       [
         "Skateboard",
@@ -83,5 +83,215 @@
       ]
     ]
   },
-  
+  "How many items do our users have in their list, on average?": {
+    "counter": 6,
+    "answers": [
+      [
+        "Skateboard",
+        76
+      ],
+      [
+        "Surfboard",
+        15
+      ],
+      [
+        "Snowboard",
+        6
+      ],
+      [
+        "Boogie board",
+        5
+      ]
+    ]
+  },
+  "What are the most requested features?": {
+    "counter": 7,
+    "answers": [
+      [
+        "Skateboard",
+        76
+      ],
+      [
+        "Surfboard",
+        15
+      ],
+      [
+        "Snowboard",
+        6
+      ],
+      [
+        "Boogie board",
+        5
+      ]
+    ]
+  },
+    "How many people work at pocket?": {
+    "counter": 8,
+    "answers": [
+      [
+        "Skateboard",
+        76
+      ],
+      [
+        "Surfboard",
+        15
+      ],
+      [
+        "Snowboard",
+        6
+      ],
+      [
+        "Boogie board",
+        5
+      ]
+    ]
+  },
+    "How does Pocket make money?": {
+    "counter": 9,
+    "answers": [
+      [
+        "Skateboard",
+        76
+      ],
+      [
+        "Surfboard",
+        15
+      ],
+      [
+        "Snowboard",
+        6
+      ],
+      [
+        "Boogie board",
+        5
+      ]
+    ]
+  },
+    "Where do you read pocket most?": {
+    "counter": 10,
+    "answers": [
+      [
+        "Skateboard",
+        76
+      ],
+      [
+        "Surfboard",
+        15
+      ],
+      [
+        "Snowboard",
+        6
+      ],
+      [
+        "Boogie board",
+        5
+      ]
+    ]
+  },
+    "Dream spot to travel to and read your entire pocket list?": {
+    "counter": 11,
+    "answers": [
+      [
+        "Skateboard",
+        76
+      ],
+      [
+        "Surfboard",
+        15
+      ],
+      [
+        "Snowboard",
+        6
+      ],
+      [
+        "Boogie board",
+        5
+      ]
+    ]
+  },
+    "What are users favorite apps?": {
+    "counter": 12,
+    "answers": [
+      [
+        "Skateboard",
+        76
+      ],
+      [
+        "Surfboard",
+        15
+      ],
+      [
+        "Snowboard",
+        6
+      ],
+      [
+        "Boogie board",
+        5
+      ]
+    ]
+  },
+    "Who do you most often share Pocket links with?": {
+    "counter": 13,
+    "answers": [
+      [
+        "Skateboard",
+        76
+      ],
+      [
+        "Surfboard",
+        15
+      ],
+      [
+        "Snowboard",
+        6
+      ],
+      [
+        "Boogie board",
+        5
+      ]
+    ]
+  },
+    "How do users most often share links?": {
+    "counter": 14,
+    "answers": [
+      [
+        "Skateboard",
+        76
+      ],
+      [
+        "Surfboard",
+        15
+      ],
+      [
+        "Snowboard",
+        6
+      ],
+      [
+        "Boogie board",
+        5
+      ]
+    ]
+  },
+    "How many items do our users have in their list, on average?": {
+    "counter": 15,
+    "answers": [
+      [
+        "Skateboard",
+        76
+      ],
+      [
+        "Surfboard",
+        15
+      ],
+      [
+        "Snowboard",
+        6
+      ],
+      [
+        "Boogie board",
+        5
+      ]
+    ]
+  },
+
 }
